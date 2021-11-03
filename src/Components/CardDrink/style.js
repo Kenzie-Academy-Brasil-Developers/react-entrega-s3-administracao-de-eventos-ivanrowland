@@ -11,7 +11,6 @@ export const Card = styled.li`
 	img{
 		margin: 20px 0 15px;
 		height: 200px;
-		width: 95px;
 	}
 	h3{
 		font-size: 1.5rem;

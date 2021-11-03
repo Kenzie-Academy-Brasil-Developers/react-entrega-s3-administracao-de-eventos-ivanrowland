@@ -19,7 +19,7 @@ export const NavBar = styled.header`
 `
 
 export const Button = styled.button`
-	color: #ffff;
+	color: #302727;
 	font-size: 0.9rem;
 	text-decoration: underline;
 	&:hover{
